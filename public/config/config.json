@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9658C2B779AAd1EA68add21D5281BCaD458429a1",
+  "SCAN_LINK": "https://flare-explorer.flare.network/token/0x1C8C857953D6096B613cfE938c673DA294E4e809",
+  "NETWORK": {
+    "NAME": "Flare",
+    "SYMBOL": "FLR",
+    "ID": 14
+  },
+  "NFT_NAME": "Cavemans Club",
+  "SYMBOL": "CAVACA",
+  "MAX_SUPPLY": 999,
+  "WEI_COST": 99000000000000000000,
+  "DISPLAY_COST": 99,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Sparkles",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
